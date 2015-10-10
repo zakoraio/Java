@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/hadoop2/hadoop-0.20.0/lib/commons-cli-2.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/hadoop2/hadoop-0.20.0/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/hadoop2/hadoop-0.20.0/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hadoop2"/>
+	<classpathentry kind="lib" path="/hadoop2/hadoop-0.20.0/hadoop-0.20.0-ant.jar"/>
+	<classpathentry kind="lib" path="/hadoop2/hadoop-0.20.0/hadoop-0.20.0-core.jar"/>
+	<classpathentry kind="lib" path="/hadoop2/hadoop-0.20.0/hadoop-0.20.0-tools.jar"/>
+	<classpathentry kind="lib" path="/DBMSProj/WebContent/WEB-INF/lib/ganymed-ssh2-build250.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
