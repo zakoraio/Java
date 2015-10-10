@@ -4,4 +4,4 @@ It is implemented in Hadoop and uses Map Reduce to do a distrubuted search.
 
 This project was tested on Palmetto Cluster using 8 nodes and 16 cores.
 
-I have uploaded ppt which has further desing related details.
+I have uploaded ppt which has further details on design.
